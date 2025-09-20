@@ -1,4 +1,4 @@
-declare module 'react-native-ble-plx' {
+declare module '@b1naryth1ef/react-native-ble-plx' {
   // TypeDefinition.js *************************************************************************************************
 
   /**
